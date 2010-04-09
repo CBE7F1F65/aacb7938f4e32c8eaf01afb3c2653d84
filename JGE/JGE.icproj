@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="big5"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="JGE"
+	ProjectGUID="{95D59C7E-97A8-4B3C-A54E-2869BAB8DAB9}"
+	VCNestedProjectGUID="{89159C26-2282-404A-A194-103B0A49DF7B}"
+	VCNestedProjectFileName="JGE.vcproj">
+	<Configurations>
+		<Configuration
+			Name="Release|Win32">
+			<Tool
+				Name="GeneralTool"
+				InterproceduralOptimization="true"/>
+			<Tool
+				Name="CppCmplrTool"
+				GlobalOptimizations="true"/>
+		</Configuration>
+	</Configurations>
+	<Files/>
+</VisualStudioProject>
